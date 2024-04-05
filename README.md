@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN,C++ , DSA**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **HTML, CSS, Javascript, React**
 
 - 📫 How to reach me **laiba.noor312@gmail.com**
 
