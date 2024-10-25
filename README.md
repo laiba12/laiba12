@@ -5,11 +5,15 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **MERN,C++ , DSA**
+- 🌱const life = {code: true, coffee: true, repeat: true};
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
+-"🚀 From 0s and 1s to 404s and 500s, I've seen it all. 
+
 - 📫 How to reach me **laiba.noor312@gmail.com**
+
+- #onecommitatatime
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
